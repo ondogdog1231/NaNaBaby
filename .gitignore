@@ -8,6 +8,7 @@ __pycache__/
 
 #pyCharm
 .idea/*
+python/.idea/workspace.xml
 
 
 # Distribution / packaging
